@@ -1,6 +1,6 @@
 # 🎙️ podcast-test
 
-A learning project exploring **GitHub Actions**, built as part of my journey through the **Career Essentials in GitHub Professional Certificate**.
+A learning project exploring **GitHub Actions**, built as part of my journey through the **[Career Essentials in GitHub Professional Certificate](https://www.linkedin.com/learning/paths/career-essentials-in-github-professional-certificate)**.
 
 ---
 
@@ -112,4 +112,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## Useful Links
 - [RSS Feed Sample](https://help.apple.com/itc/podcasts_connect/en.lproj/itcbaf351599.html)
 - [Helpfull documentation](https://raybo.org/slides_practicalactions/#/)
-- 
+- [Github Actions](https://docs.github.com/en/actions)
